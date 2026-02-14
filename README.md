@@ -1,2 +1,2 @@
-# DigComp-3.0
-Resources from and for the [European Digital Competence Framework DigComp-3.0](https://joint-research-centre.ec.europa.eu/projects-and-activities/education-and-training/digital-transformation-education/digital-competence-framework-digcomp/digcomp-30_en).
+This repository contains resources derived from and supporting the [European Digital Competence Framework DigComp-3.0](https://joint-research-centre.ec.europa.eu/projects-and-activities/education-and-training/digital-transformation-education/digital-competence-framework-digcomp/digcomp-30_en).
+- Cosgrove, J. and Cachia, R., DigComp 3.0: European Digital Competence Framework - Fifth Edition, Publications Office of the European Union, Luxembourg, 2025, https://data.europa.eu/doi/10.2760/0001149, JRC144121. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
